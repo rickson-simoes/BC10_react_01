@@ -1,6 +1,7 @@
 node_modules
 desktop.ini
 debug.log
+yarn.lock
 
 # dependencies
 /.pnp
