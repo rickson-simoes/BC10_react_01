@@ -7,3 +7,6 @@
 
 
 [![tela2](https://raw.githubusercontent.com/rickson-simoes/BC11_react_01/master/imgs_exemplares/img2.png "Erro ao digitar nome do repositório")](https://raw.githubusercontent.com/rickson-simoes/BC11_react_01/master/imgs_exemplares/img2.png "img2")
+
+
+[![tela2](https://raw.githubusercontent.com/rickson-simoes/BC11_react_01/master/imgs_exemplares/img3.png "Erro ao digitar nome do repositório")](https://raw.githubusercontent.com/rickson-simoes/BC11_react_01/master/imgs_exemplares/img3.png "img3")
